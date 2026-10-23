@@ -7,7 +7,7 @@ cask "clementine" do
   desc "Convert, compress and edit files by dragging them onto a wheel of formats"
   homepage "https://getclementine.app/"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Clementine.app"
 
