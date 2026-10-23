@@ -1,6 +1,6 @@
 cask "clementine" do
-  version "1.1"
-  sha256 "1bb061e07f366db5c70fd5ef12843bbac9fb70441d733ff6e33fb2084aea48e4"
+  version "1.1.1"
+  sha256 "b1cc482aa568f831e60dbed873ca6008f2ee8e64a1a7436f3137daac79faa49f"
 
   url "https://downloads.getclementine.app/Clementine-#{version}.dmg"
   name "Clementine"
